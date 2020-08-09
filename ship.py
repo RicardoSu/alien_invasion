@@ -16,7 +16,7 @@ class Ship(object):
 		self.rect.midbottom = self.screen_rect.midbottom
 
 		#store adecimal value for the ship horizontal possition
-		self.x = float(self.rect.x)
+		self.x = self.rect.x
 
 		#store a decimal value for the ship vertical position
 		self.y = float(self.rect.y)
@@ -49,4 +49,6 @@ class Ship(object):
 
 	def center_ship(self):
 		self.rect.midbottom = self.screen_rect.midbottom
-		self.x = float(self.rect.x)
+		self.rect.x = float(self.rect.x)
+		self.y = float(self.rect.y)
+		
