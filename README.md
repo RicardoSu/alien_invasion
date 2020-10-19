@@ -30,7 +30,7 @@ loses a ship. If the player loses three ships, the game ends.
 
 - Arrows keys (left - right)
   - Move the ship left / right
-  -Developer mode up / down
+  - Developer mode up / down
 
 ## ⚔ Let's play
 
