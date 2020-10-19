@@ -1,11 +1,23 @@
 <div align=center margin= auto> 
   <img src="game.gif"  width=80%>
 </div>
+# 🔫 Sideways Shooter
+
+<div align=center margin= auto> 
+  <img src="sideways-shooter.gif"  width=80%>
+</div>
+
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 # 👽 Alien Invasion
 Alien invasion is a clone of popular arcade game with same name.
 I created this game by following the "Python Crash Course" book.
 This game was created during summer 2020 to sharpen my python skills.
+
+With the skills learned creating Alien Invasion I could create the
+Sideways Shooter.
 
 
 ## 🚀 Introduction
