@@ -1,7 +1,7 @@
 <div align=center margin= auto> 
   <img src="game.gif"  width=80%>
 </div>
-# 🔫 Sideways Shooter
+## 🔫 Sideways Shooter
 
 <div align=center margin= auto> 
   <img src="sideways-shooter.gif"  width=80%>
