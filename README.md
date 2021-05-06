@@ -1,11 +1,11 @@
 <div align=center margin= auto> 
-  <img src="game.gif"  width=80%>
+  <img src="/images/game.gif"  width=80%>
 </div>
   
 # 🔫 Sideways Shooter
 
 <div align=center margin= auto> 
-  <img src="sideways-shooter.gif"  width=80%>
+  <img src="/images/sideways-shooter.gif"  width=80%>
 </div>
 
 
@@ -61,4 +61,7 @@ $ cd Alien-Invasion
 $ python alien_invasion.py
 ``` 
 
+```
+$ python Sideways_Shooter.py
+``` 
 Enjoy!
